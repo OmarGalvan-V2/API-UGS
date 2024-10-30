@@ -7,4 +7,6 @@ npm init -y //Instala el package.json
 
 npm install electron -D //Se instala el electron que permitira convertir el código de un portal web a uno de escritorio.
 
+npm run dev //Correra el proyecto.
+
 y con esto el proyecto debe de correr correctamente.
